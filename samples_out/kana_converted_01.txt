@@ -1,0 +1,6 @@
+ダグラス	0.4654	douglas	0.2519	duglas	0.0751	doglas	0.0604	daglas	0.0127	douglous	0.0075	duglous	0.0071	douglass	0.0053	tuglas	0.0048	douglougs	0.0046	douglath
+イヴァン	0.8297	ivan	0.0327	iwan	0.0325	evan	0.0274	iven	0.0204	yvan	0.0139	hivan	0.0115	ivin	0.0037	iban	0.0032	ivann	0.0031	iwin
+ライナー	0.7426	rainer	0.0608	lainer	0.0378	liner	0.0217	rhiner	0.0170	reiner	0.0155	raner	0.0143	riner	0.0130	rayner	0.0125	lyner	0.0103	rhyner
+マシュー	0.3147	mathew	0.2245	matthew	0.1896	massu	0.0222	macieus	0.0216	matsu	0.0209	matthieus	0.0202	matthieu	0.0163	macieu	0.0078	mathieu	0.0076	maschew
+ベルリッツ	0.6968	berlitz	0.0920	berliz	0.0483	berlich	0.0301	berlichs	0.0209	werlitz	0.0179	bellitz	0.0100	bellritz	0.0078	belritz	0.0072	berlichsz	0.0051	berlitsz
+フランク	0.1191	franky	0.0884	frank	0.0808	franckh	0.0689	franke	0.0686	francke	0.0554	franck	0.0532	franc	0.0251	frang	0.0173	france	0.0134	francky
